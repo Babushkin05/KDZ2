@@ -60,12 +60,12 @@ namespace KDZ2BABUSHKIN
 			int selected = 1;
 			ConsoleKey k = ConsoleKey.UpArrow;
 
-			string[] funcs = { "Произвести выборку по значению NameOfStation", "Произвести выборку по значению Line",
-				"Произвести выборку по значению NameOfStation и Month", "Отсортировать таблицу по значению Year (прямой порядок)",
-                "Отсортировать таблицу по значению NameOfStation (прямой порядок)","Выйти из программы"};
-
+			string[] funcs = { "Make selection by NameOfStation", "Make selection by Line",
+				"Make selection by NameOfStation and Month", "Sort table by Year",
+                		"Sort table by NameOfStation","Quit program"};
+			
 			//Change selected buttons.
-            do
+            		do
 			{
 				Console.Clear();
 
