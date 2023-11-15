@@ -1,0 +1,12 @@
+/Users/vovababuskin/Projects/KDZ2BABUSHKIN/CSVLibrary/bin/Debug/net6.0/CSVLib.deps.json
+/Users/vovababuskin/Projects/KDZ2BABUSHKIN/CSVLibrary/bin/Debug/net6.0/CSVLib.dll
+/Users/vovababuskin/Projects/KDZ2BABUSHKIN/CSVLibrary/bin/Debug/net6.0/CSVLib.pdb
+/Users/vovababuskin/Projects/KDZ2BABUSHKIN/CSVLibrary/obj/Debug/net6.0/CSVLib.csproj.AssemblyReference.cache
+/Users/vovababuskin/Projects/KDZ2BABUSHKIN/CSVLibrary/obj/Debug/net6.0/CSVLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vovababuskin/Projects/KDZ2BABUSHKIN/CSVLibrary/obj/Debug/net6.0/CSVLib.AssemblyInfoInputs.cache
+/Users/vovababuskin/Projects/KDZ2BABUSHKIN/CSVLibrary/obj/Debug/net6.0/CSVLib.AssemblyInfo.cs
+/Users/vovababuskin/Projects/KDZ2BABUSHKIN/CSVLibrary/obj/Debug/net6.0/CSVLib.csproj.CoreCompileInputs.cache
+/Users/vovababuskin/Projects/KDZ2BABUSHKIN/CSVLibrary/obj/Debug/net6.0/CSVLib.dll
+/Users/vovababuskin/Projects/KDZ2BABUSHKIN/CSVLibrary/obj/Debug/net6.0/refint/CSVLib.dll
+/Users/vovababuskin/Projects/KDZ2BABUSHKIN/CSVLibrary/obj/Debug/net6.0/CSVLib.pdb
+/Users/vovababuskin/Projects/KDZ2BABUSHKIN/CSVLibrary/obj/Debug/net6.0/ref/CSVLib.dll

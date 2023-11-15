@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "KDZ2BABUSHKIN/1.0.0": {
+        "dependencies": {
+          "CSVLib": "1.0.0"
+        },
+        "runtime": {
+          "KDZ2BABUSHKIN.dll": {}
+        }
+      },
+      "CSVLib/1.0.0": {
+        "runtime": {
+          "CSVLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KDZ2BABUSHKIN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CSVLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
